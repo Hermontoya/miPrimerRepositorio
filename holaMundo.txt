@@ -2,4 +2,8 @@ ugfgh
 
 modificado por cristian
 
+<<<<<<< HEAD
 modificado por Hernan
+=======
+modificado por cristian nuevamente
+>>>>>>> bcc0a85037f45dea12548fc6904f0a051f84b283
